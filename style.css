@@ -1,0 +1,29 @@
+.navbar-nav{
+    float: right!important;
+}
+img{
+    margin-right: 10px;
+}
+.aboutme{
+    text-align: center;
+}
+.container{
+    margin-top: 10px;
+    background-color: grey;
+}
+.row{
+    margin: 10px;
+}
+footer{
+    background-color: rgb(52,58,64);
+    text-align: center;
+    color: aliceblue;
+    margin-top: 10px;
+
+}
+body{
+    background-color: grey;
+}
+form{
+    margin: 0px 10px;
+}
